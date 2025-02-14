@@ -1,0 +1,10 @@
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/libthiserror-ddb0aa2e4074750e.rmeta: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs
+
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/libthiserror-ddb0aa2e4074750e.rlib: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs
+
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/thiserror-ddb0aa2e4074750e.d: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs
+
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs:

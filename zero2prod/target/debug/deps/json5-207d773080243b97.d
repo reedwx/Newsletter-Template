@@ -1,0 +1,11 @@
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/libjson5-207d773080243b97.rmeta: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/de.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/error.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/ser.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/json5.pest
+
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/libjson5-207d773080243b97.rlib: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/de.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/error.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/ser.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/json5.pest
+
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/json5-207d773080243b97.d: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/de.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/error.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/ser.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/json5.pest
+
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/lib.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/de.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/error.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/ser.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/json5-0.4.1/src/json5.pest:

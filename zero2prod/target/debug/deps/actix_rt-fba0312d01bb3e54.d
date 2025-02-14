@@ -1,0 +1,10 @@
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/libactix_rt-fba0312d01bb3e54.rmeta: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs
+
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/libactix_rt-fba0312d01bb3e54.rlib: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs
+
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/actix_rt-fba0312d01bb3e54.d: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs
+
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/lib.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/arbiter.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/runtime.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-2.10.0/src/system.rs:

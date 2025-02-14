@@ -1,0 +1,10 @@
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/libhttparse-2f4c6b4ea28ba0a4.rmeta: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/iter.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/macros.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/mod.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/swar.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/neon.rs
+
+/Users/jacksonprybil_1/Rust/Newsletter-Template/zero2prod/target/debug/deps/httparse-2f4c6b4ea28ba0a4.d: /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/lib.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/iter.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/macros.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/mod.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/swar.rs /Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/neon.rs
+
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/lib.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/iter.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/macros.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/mod.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/swar.rs:
+/Users/jacksonprybil_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.0/src/simd/neon.rs:
